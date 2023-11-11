@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Cook",
+  "age": 55,
+  "address": {
+    "street": "Feflov Highway",
+    "city": "Wipfighug",
+    "state": "WA",
+    "zip": "36249"
+  },
+  "contact": {
+    "phone": "(548) 765-9067",
+    "servicePhone": "800832657"
+  },
+  "birthday": "1968-11-21T12:36:24.842Z",
+  "ip": "129.183.13.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Bitjedez vuhazgeb osivewab er luf mat ac eluti guhucmoj ne ma ohotef zapuhi huc gefakce dofatje. Tidco runvub akkigbaj edluhih wowtop be izdo op ebiwa om ze wiklatge obze upeelful. Nidig tup ir gudhuk bop hi vuhif da bijtezu ji vebhod tidufod uri puvacca dumaari ule.",
+    "bio": "Pekneav akadafil maz sa nuviv wul mo hitez ti hitu kigu recime evobeni tihra mav. Ruhefu efifur mium zi rimuru fem detun tioreupe gabezo waldi moljuwu no. Her roj owajona misedla bef am mirowuw gik el ohuwajwu bece nukihni emtivi."
+  },
+  "apiKey": "ef2bbb9c179a87001e67e14beb4bb2912f9249df7574b06be38eebbcdd852763",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
