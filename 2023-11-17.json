@@ -1,0 +1,26 @@
+{
+  "name": "Alta Warren",
+  "age": 30,
+  "address": {
+    "street": "Kokit Circle",
+    "city": "Vadmopki",
+    "state": "WI",
+    "zip": "96562"
+  },
+  "contact": {
+    "phone": "(989) 417-7578",
+    "servicePhone": "800684524"
+  },
+  "birthday": "2001-09-28T08:41:19.029Z",
+  "ip": "168.241.17.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Alokuste ruib feg fa kawari rol ebe cu zoj ohokorez mukilari devo. Otapi rak wibaj zib nam ez lim oguavo nonjelbez leitome mujop uzjobba gerzemhe rivuje. Suw niweh azo fi vuh ene pu migovfat akulamoz reudhup gukni as atetif varomu mepfar ijaswa fom. Udesa fef ne hol li bahi goij pugvufpez vucuposah dukji mu ewicov lud.",
+    "bio": "Enemanoj uvu nak jupe de lajimru to nagiw lico buv wefofenu umoocufik le. Oca pim sic zilkona tanlihji daekenib pahajvi gabil ralettel dicvoncov teefba fega ra golosu do geirwev wa ogula. Cejwanun macaf paclon velkizela jupozi maj senop be gikuca zez ize jegur iwcopuj."
+  },
+  "apiKey": "4d9b9c211b54833665d98a5b325a20f18837fb9f442828e4193f66667427facd",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
