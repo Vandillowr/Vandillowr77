@@ -1,0 +1,26 @@
+{
+  "name": "Clara Becker",
+  "age": 55,
+  "address": {
+    "street": "Suje Extension",
+    "city": "Baflilor",
+    "state": "MO",
+    "zip": "79169"
+  },
+  "contact": {
+    "phone": "(326) 895-3929",
+    "servicePhone": "800259889"
+  },
+  "birthday": "1972-08-24T10:01:43.288Z",
+  "ip": "80.100.132.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Ninuve poivi cab regwejoz raolsip de une jo ja jamebi epni fajed elnezov ucnula kasda sotza. Kas lagu ipisi hounuhe gudogez wofu bonivhef dugelo nad kepi usumoras sot ju. Ewiah wadcum dapafow iju ilzevcok wuog haof macpas cuclacaba nugilfa si fobtef lirehko neojgo ci tusom nu ziafgew. Gijizcak igow mo mo jiwe ze waral hasbab ci za rutwohap inumoos vooje ewu facubis.",
+    "bio": "Zobjep tozkaajo liafafu poup devmeg vofa lakciga me sudoleki conjabo wu cukum kivefiwu ti roolgo kuiw ridaza. Zatbi ka roradve gelin rivhofke asno vec hapendep cazba dujagzu rusav mottihbu filgo ucehagah sibeda ovonoppe. Fuve metbi inahalib ite apinuvep lu duve wosecapo cadubunon hopiferow seheso dokhobe edi miwguvma fuika ihodifin lojitked."
+  },
+  "apiKey": "4d011e06bfa1e301d2c0676cd4125fb8ed4a5fbb9cf3b816b4b8c2f4c6056b63",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
