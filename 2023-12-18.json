@@ -1,0 +1,26 @@
+{
+  "name": "Elmer Reid",
+  "age": 64,
+  "address": {
+    "street": "Nahwa Turnpike",
+    "city": "Tiwulwo",
+    "state": "VT",
+    "zip": "28541"
+  },
+  "contact": {
+    "phone": "(257) 656-6798",
+    "servicePhone": "800799936"
+  },
+  "birthday": "1986-04-03T16:30:09.411Z",
+  "ip": "205.14.166.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Ris limbe ge egi zor lehisreg jut uhukalu le birego radu si juzak teperi. Faf bikojouk he puc givijnec kareico ki rirag zes govuzho enenu tij fenhukoz usonib ja selieva elnepzi fug. Buwtet um zejiso rizifweb niznamwaj gevug ipjibi wisap ut uhivejhez mu cimcafoc sote. Ago sannudzu jarta onu larpew kip tepi lum nerafeheg go ha ku ja. Kameski esusut dopjo kemonkek zegtosu uco no gel pi ehepuc tabas ekefeci ise. Ziktaeso pe dicek witnapgu vefvega su fa nu uhoteus api mus kol zum. Kavahbon bit sik nalibati fe huhoum ev idfod meh nuze fib pez cic se.",
+    "bio": "Fas zigok oprasaz jolato tidnukil un ini kah ik ihu luwija cub iprivib. Lok ronoeri hi ocano co wid jul ucu ditvojeg fenadep sup huhvos sa pofcain votsaef oci litjic vouse. Tacu mupkejo ro nidbon ozwasvov sufatiho zic cefuk gas wifwud ra wogefi opi lukmoves zec jumfe tajetu. Odpe buwiwa linke kakozi islo ja hifhaz le gorizge cifta esdo te favawhu sewfoef metbum uza ho."
+  },
+  "apiKey": "050b68a8eb494080b930f2556bcc70acb3bb462c5550708b41c647dd782e1d5c",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
