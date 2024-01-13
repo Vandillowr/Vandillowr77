@@ -1,0 +1,26 @@
+{
+  "name": "Dean Wise",
+  "age": 31,
+  "address": {
+    "street": "Lawboz Mill",
+    "city": "Cuvhiar",
+    "state": "NJ",
+    "zip": "50584"
+  },
+  "contact": {
+    "phone": "(548) 805-7990",
+    "servicePhone": "800169731"
+  },
+  "birthday": "1981-03-28T00:54:34.066Z",
+  "ip": "201.60.65.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Lawim lebe hi rar ebi jodi di ole ubi buceviam miniuh ijo purvaed ob bectir egohuj. Geme rafezses ogolewez sear vo getmo ecabuf wedmovmaw jig epadiphim zum mehu. Ehmafo ib wazguuk gi mazda luh soj er jeznecuk sif pam irosezal fugin irriuri.",
+    "bio": "Tuor tovofudij unooke kegdunvu ol vo go mip cur rod weohu id pip. Pitgoic tacrali cuvel awbika vocun peud ewetam te ifo pivohjev poguac sed mumu. Vewe ijno bid ud oshi amasug sosare jahni datahter suv kog powun lirbi tazjo fulzo rosdud lamem ivoze. Tujviduki olhusjaj jepwun wu sazjuhun poja cecvo ha irob birra nijna womze itli rivbopuf ide ni."
+  },
+  "apiKey": "2ee5cd6c49154aab8d7813edbd16a679e5aaf6abc843be01c58654c29aa1e3b6",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
