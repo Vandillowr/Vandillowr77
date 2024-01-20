@@ -1,0 +1,26 @@
+{
+  "name": "Gregory Castillo",
+  "age": 20,
+  "address": {
+    "street": "Peza Road",
+    "city": "Kekebej",
+    "state": "NV",
+    "zip": "56583"
+  },
+  "contact": {
+    "phone": "(246) 514-5450",
+    "servicePhone": "800964827"
+  },
+  "birthday": "2004-08-14T01:57:05.571Z",
+  "ip": "139.168.140.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Ev wuirode paze im sofgo ehitfow uvep leira uk rep biphihov umuti lucib reuju. Ru fagma cu gejnohus tedofof biji ga atuad devtegpit dan hac nugumvo cigsoun cas polre cir gieto va. Hok biw zoz izehajis gahiw duogpi utaka dedbaf sisegiga vab dawo opcodo. No cautaoz hotu fi olo rupajlon dofafnuk nuke ki hisur bu pefse abarkel uttodi dene faw ipibi nu. Cuegugij er lubguleko huuka hemal jalman nan zuffob falogjoc hac tulbuba teephoj jodcoedi pihvowlol voecu lujnu.",
+    "bio": "Wurfozez zecib pud himkice gizlimak ziruk uzo gotol vifeha az warga it. Dufeh zi sumukuw aw nep bada sovumir evujuteg cifikac abapu higi fam uhogecak pu uzrol bozjotor zu voz. Linemu ocjoh kovebwi zati jora oma ah pa gi nic dig agihas ofekatir wemevdig wazgeddar zed."
+  },
+  "apiKey": "f1f0fdcc32c3e038a559c0f952d4e06268be6eacbdd3ebbfe134dd5f66c71d01",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
