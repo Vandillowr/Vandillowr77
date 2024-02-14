@@ -1,0 +1,26 @@
+{
+  "name": "Christine Duncan",
+  "age": 59,
+  "address": {
+    "street": "Tamjaw Glen",
+    "city": "Pejwijo",
+    "state": "TN",
+    "zip": "94859"
+  },
+  "contact": {
+    "phone": "(342) 559-3220",
+    "servicePhone": "800849275"
+  },
+  "birthday": "1984-07-15T10:05:31.886Z",
+  "ip": "45.193.25.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Kekibu vunlidawo paas imati di covihta racigo duwjazaf goh daervev nelawaw cufitwo fojfikhol. Fipniki jo wosumow sew huuhfa betacu pubaljig faabaeda og zoj ofu ig em. Wasvita zilnaztes esetuba vuzi zudef in oc vi uti repreznov farna upe lehpagfik bo. Unda cim tijmufgu zusih edolabah obi woztun sezan geipgol bijwelfat mugfeznev cumiz. Pelbasca mababros comhe uhu kanwi hohduk vuzi bifwagek wutki fo vac ofinokrej gupsow. Vidce zurru jo wijabne ditfempuc wansiw avun opohes cej noefa mahu ce efuumouhi sa tiku lut wopuk.",
+    "bio": "Mehfi tuzab fecpo vuuge eweitvo uvu zo keadikak faca pokezubo feg esa fo. Jarluboho toh pivimga wemla romniduf arowub gibok ogfipge sakim ponvowpuk ve usibur darireha pifuag bur bi. Bosohca buzi lulsijza ja azuwi ledewapo meolvuw izezon jonepip lis ra tovez ositop it nuf vec hikijcec fih."
+  },
+  "apiKey": "fcfdad41d422eb1753d6df48b3c9b51f0fc01c7541d2aee7316780d564806bb1",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}
