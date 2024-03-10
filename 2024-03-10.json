@@ -1,0 +1,26 @@
+{
+  "name": "Andre Hicks",
+  "age": 40,
+  "address": {
+    "street": "Vowwa Glen",
+    "city": "Gijtupok",
+    "state": "NH",
+    "zip": "73735"
+  },
+  "contact": {
+    "phone": "(876) 486-6989",
+    "servicePhone": "800618237"
+  },
+  "birthday": "1977-10-12T02:31:49.803Z",
+  "ip": "54.2.128.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Tovo upi isi zipvitu ro tel za admuh pofkepa namecboc su ul vi kicmi acepujovi. Niblu logfajta befda gemo mezugoj kocpehez fibtahuc namca epole zuj citanegu saaflo laduvded. Sit surulisa mizcisot zuduh fiwuope ultog fan maik wezovuj bep le oti pid.",
+    "bio": "Sozulu desoiha ducoh hihzagewi ruhis ede woti ros sasfibe udawarwi pevuzij beropco oha wuwnu bezzocok vodatu ze reika. Ola wac tedzof satvitof adi huub sor nagruknu fotif ke jovmuhdih bunetun lefi zousgo. Ru amauwi kebja hituota bize venuweb zuvwo nac kaureipa ketkarle zeesowu dam fagrenin jiitu."
+  },
+  "apiKey": "46c640df4e7d52430f7f61ed2d0236ca59ae6c39351907b0f369523594d044da",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
