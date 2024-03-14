@@ -1,0 +1,26 @@
+{
+  "name": "Christina Alvarez",
+  "age": 50,
+  "address": {
+    "street": "Ivowa River",
+    "city": "Zetdisum",
+    "state": "SC",
+    "zip": "33548"
+  },
+  "contact": {
+    "phone": "(257) 720-1734",
+    "servicePhone": "800867963"
+  },
+  "birthday": "1968-12-22T18:31:32.368Z",
+  "ip": "104.188.40.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Kimumsi co henosnum elu no pogev wikme goh jonuso weze ugcap is apedooce biwuubu zuvisi daiko lowog waw. Ze anugevap finilori hu mehow pof um dagtagnim dasrupti juinuuz vuh mivud ma kaknilav tusemuho mebtume wa. Acdi te rivafdez awi uzsimi wombanso jawawhi zanbewet zifhuv kibhu savkatgoz lap.",
+    "bio": "Son veta elu fimioci owatavup pogot tagipe meb lep nemadelu ofcunbom rit. Jih abwe pa fuse kekzovla dahtohfos uh poeciro tezaseb el reses arice upnopfu foaro hiv tegejeg. Lebgazmo mu la lehwatob fe lovjug to cebu cona mitinu hok da pog okaece izuwa."
+  },
+  "apiKey": "ae2b2c0e036612d9ccba7a9f78d03e4bbae556c3ef7dbcda6ddf99ba44436335",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
