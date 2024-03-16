@@ -1,0 +1,26 @@
+{
+  "name": "Rebecca Phelps",
+  "age": 63,
+  "address": {
+    "street": "Ujitu Place",
+    "city": "Kemdocu",
+    "state": "AL",
+    "zip": "43213"
+  },
+  "contact": {
+    "phone": "(312) 663-9304",
+    "servicePhone": "800673787"
+  },
+  "birthday": "1980-04-05T16:02:27.095Z",
+  "ip": "243.197.176.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Zib ogevizif eno bizuno wirgez jaz ne kibcako itoin vu zeowujod olaajunew kod dipoave toni. Mawa tewas mon dofna naj hubure wefzu cen wufig meuvasu fekaluv uwu. Egopov gazatwe ku woloro uzu ho fu fetilozu ocohobuki voskig ig giivlo.",
+    "bio": "Nepla afavuut denuwet susiho todnelzej mo mirme buvekdon vu ezobez mude wicga guifzeb ihwub bi sen aruurbe. Gutiwul zi fes hoj si mojpa nuhe milip on wedozac godjewo ec ceh dibijet kimut. Abkak letnudog jallima pagcit goma pil ima voj one sej iwgik giwec."
+  },
+  "apiKey": "31703b38a9b2397f368bb001a567ded8b01ab435158183b9cc85ff580a5f476b",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
