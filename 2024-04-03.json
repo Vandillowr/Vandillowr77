@@ -1,0 +1,26 @@
+{
+  "name": "Howard Duncan",
+  "age": 18,
+  "address": {
+    "street": "Kolju Loop",
+    "city": "Kizamegi",
+    "state": "WV",
+    "zip": "37650"
+  },
+  "contact": {
+    "phone": "(581) 335-5058",
+    "servicePhone": "800752591"
+  },
+  "birthday": "1974-09-07T12:11:33.143Z",
+  "ip": "248.237.84.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Pofo nom beffom pozlidrew ufho pisewham decvigca sivelve towuci diwiki dihunsav sugori tuapu inegiho putalu edapse. Culwu wubiz etetubvu jaf oho jazmiw aw beni joj igavu motgotaz na rarbo tioj ritjeklic. Tuuwagu ijugijud hun nil runuzso lujev meda ezerap enapeap ano vu pebij aredu caca uk mir.",
+    "bio": "Peejomod be ruwo di kiim zesgo fa giwefru bu ajtu jahwufjo kijwefaj hoda ja erabije kozilur li. Jozducci dawcuk rof megasda fetmukuv owonahaw edo il ag regmuheta pida boduz zolbu. Pa rabha gogneiru coze po ramtade sasipij de vadotbu sisos nah kaziv uwaitda hitnion redas. Jebuvdak mikcaji mulo nehpu gihwi afa rezko anmumle cehfov wuv afuep kidat gu adeka ifu ugoluf vevawo te. Hov ol jac rufpi romsav subzeg hasbibo nezoh hef tacihmal kedonu numpe ecatah so. Goinedi zeziwwa fecadmo waag haficasi odesohe coj ejigofja gemobih mam niv jidigo febi."
+  },
+  "apiKey": "c725ae7309af48aa47c078b3d835484673519c0a396d2036b6b2638929a657ff",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
