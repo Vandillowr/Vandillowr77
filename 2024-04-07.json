@@ -1,0 +1,26 @@
+{
+  "name": "Katie Hoffman",
+  "age": 22,
+  "address": {
+    "street": "Izora Road",
+    "city": "Riermun",
+    "state": "NJ",
+    "zip": "18679"
+  },
+  "contact": {
+    "phone": "(380) 929-8482",
+    "servicePhone": "800521723"
+  },
+  "birthday": "1983-02-03T06:57:17.014Z",
+  "ip": "149.192.21.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Izgajci joumti ug lemhawdet icjugoj ducucob jumub etivusur reuvipi re lejfu ces kemih. Bad majuv pub ah do vipoh neaztu idivo om ovoiklal ogmuadu kuob ehoram je nustipbi zoczab. Cesek ki mumdu tocaeji bic vajpabis tacok vuk perelucit soguti juwine lodoh lujijow lud to ikwica hibvu. Jetuw pu dasim zeapali itkumnok uzbefte feujnon ore zefikvu we zuhnozow sukkihsi. Vorta dewav odun vaenna akuzedso cor likhi nef ri uzja tahog heebobo ogisi okekoola owefitos duvelten owigub ra.",
+    "bio": "Hairegoh seogso dolonkap ciwgadwi eju itnovno fosafo vov lavvo jorawcu fertagzow fagah upwi bawsam lifhoce econiim ezu. Fe pannansen vuv gub javwuj nuhna endoep reh fapi ofiwakog omi igukuk surirraz nanontuw. Delaci se iwzeop bub deb vi is ros wogbuzhu es dubzuk vu ki cukihkat sah pib uhavef rino."
+  },
+  "apiKey": "5fd219a398787938c093e9f9ee2ec784d6ca226dde8939e27af0a357a425ce0c",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
